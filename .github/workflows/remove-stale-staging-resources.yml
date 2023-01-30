@@ -1,4 +1,4 @@
-name: Remove stale staging resources
+name: Remove stale staging resources - by: markoenix, markodelatorre
 
 # **What it does**:
 # This cleans up any rogue staging applications and environments that outlasted
